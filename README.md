@@ -1,4 +1,4 @@
-# weather-console-app
+# Weather console application
 
 Implementations of weather and geopositions APIs with execute in app console, learned from "Node de cero a experto"
 
