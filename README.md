@@ -1,6 +1,6 @@
 # Weather console application
 
-Implementations of weather and geopositions APIs with execute in app console, learned from "Node de cero a experto"
+Implementations of weather and geopositions APIs with execute in app console, learned from [Node de cero a experto](https://www.udemy.com/share/1013OAAEMYcl9aRHwE/)
 
 Add following env vars:
 
